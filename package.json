@@ -1,0 +1,29 @@
+{
+  "name": "tan-gas-convert",
+  "version": "1.0.0",
+  "description": "tan-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tk93dn/tan-gas-convert.git"
+  },
+  "keywords": [
+    "tan-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "tk93dn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tk93dn/tan-gas-convert/issues"
+  },
+  "homepage": "https://github.com/tk93dn/tan-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
